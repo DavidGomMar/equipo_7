@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+	padding: 12px;	
+}
+
+/* cambiar tipo de letra */
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ 
+/* cambiar el color de fondo a la barra */
+nav.navbar {
+    background-color: #9F7306;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 10px;
+}
+footer {
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 10%;
+  color: white;
+}
+

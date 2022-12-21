@@ -1,0 +1,20 @@
+2.3 fundamentos de inteligencia de negocio
+Aqui podras encontrar infortmacion del tema donde claro se puede encontrar las calidades
+de informacion, su estructura y lo que son los sistemas de apoyo, asi poder entender 
+este tema.
+
+
+Arquitectura CISC Y RISC
+Aqui podremos encontrar como funcionan estas arquitecturas tanto CISC Y RISC para 
+poder entender mucho mejor.
+
+
+Gobierno TI
+Aqui podemos ver como es que funciona el gobierno Ti, gracias a la investigacion 
+que se realizo, vemos como puede ayudar a las empresas su infrestructura del gobierno
+de ti
+
+
+Infraestructura de TI y tecnologias emergentes
+En este apunte se puede ver como es la infraestructura de las TI y como es que pueden ayudar
+a nosotros.
